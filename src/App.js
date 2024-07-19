@@ -6,7 +6,7 @@ function Square({ value, onSquareClick }) {
     {value}
     </button>
   );
-}
+} 
 
 
 export default function Board() {
