@@ -18,9 +18,7 @@ Ce projet est une application de jeu Tic Tac Toe, développée en suivant un tut
   
 ## Tutoriel suivi
 
-Ce projet a été réalisé en suivant le tutoriel disponible sur le site de <a href="https://react.dev/learn/tutorial-tic-tac-toe" target="_blank" rel="noopener noreferrer">React.</a>
-
- [React](https://react.dev/learn/tutorial-tic-tac-toe).
+Ce projet a été réalisé en suivant le tutoriel disponible sur le site de [React](https://react.dev/learn/tutorial-tic-tac-toe).
 
 ## Installation
 
